@@ -1,6 +1,6 @@
 # Post String Method
 
-The post sting method estimates the minimal free energy path on the free energy landscape.
+The post sting method estimates the minimal free energy path on the free energy landscape.  
 <img src="Image/Abstract.png" width="300px">
   
 # DEMO  
