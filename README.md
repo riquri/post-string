@@ -1,12 +1,15 @@
 # Post String Method
 
 The post sting method estimates the minimal free energy path on the free energy landscape.
- 
-# DEMO
- 
+<img src="Image/Abstract.png" width="300px">
+  
+# DEMO  
+Demonstration for the open-closed transition of ribose binding protein.
+<img src="Image/demonstration.png" width="600px">
 
 # Features
- 
+The replacement of the nth beads.  
+<img src="Image/process.png" width="300px">
  
 # Requirement
   
@@ -34,4 +37,4 @@ The post sting method estimates the minimal free energy path on the free energy 
  
 # License
  
-"hoge" is under [MIT license](https://en.wikipedia.org/wiki/MIT_License).
+"hoge" is under XXX license.
