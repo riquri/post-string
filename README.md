@@ -37,4 +37,4 @@ The replacement of the nth beads.
  
 # License
  
-"hoge" is under XXX license.
+Post string method is under MIT license.
