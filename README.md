@@ -11,7 +11,7 @@ Demonstration for the open-closed transition of ribose binding protein.
 The replacement of the nth beads.  
 <img src="Image/process.png" width="300px">
  
-# Requirement
+# Requirement (validated version)
   
 - Python 3.x (3.7.8)
  - matplotlib (3.3.1)
@@ -20,7 +20,8 @@ The replacement of the nth beads.
  - tqdm (4.48.2)
  
 # Installation
- 
+Launch string.ipynb and load post-string-input.xvg.
+post-string-input.xvg should contain three column data (x, y, weight).
 
  
 # Usage
