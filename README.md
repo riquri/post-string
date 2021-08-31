@@ -30,6 +30,8 @@ post-string-input.xvg should contain three column data (x, y, weight).
  
 # Note
 Please cite this paper.
+
+
 Rikuri Morita, Yasuteru Shigeta, Ryuhei Harada. A post-process to estimate an approximated minimal free energy path based on local centroids. Chem. Phys. Lett. (2021)DOI:[https://doi.org/10.1016/j.cplett.2021.139003]
 
  
