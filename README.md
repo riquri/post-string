@@ -36,7 +36,7 @@ Rikuri Morita, Yasuteru Shigeta, Ryuhei Harada. A post-process to estimate an ap
 
  
 # Author
-- Rikuri Morita
+- Rikuri Morita*, Yasuteru Shigeta, Ryuhei Harada*.
 - Center for Computational Sciences, University of Tsukuba
 - morita@ccs.tsukuba.ac.jp
  
